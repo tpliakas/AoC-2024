@@ -1,10 +1,10 @@
 package main
 
 import (
+	"aoc/utils"
 	"fmt"
 	"strconv"
 	"strings"
-	"aoc/utils"
 )
 
 func main() {
